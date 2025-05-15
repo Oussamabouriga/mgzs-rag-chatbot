@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain-core==0.3.18
+langchain-openai==0.2.8
+langchain-community==0.3.7
+langchain-chroma==0.1.4
+langchain-text-splitters==0.3.2
+unstructured==0.14.4
+python-dotenv==1.0.1
